@@ -1,5 +1,5 @@
 <p align="center">
   <a href="https://alejoviola.dev">
-    <img src="./assets/github-hero.svg" alt="Alejo Viola — Senior Frontend Engineer · Design Engineer. Animated portfolio banner: a cursor light sweeping over a depth grid." width="100%" />
+    <img src="./assets/github-hero.svg" alt="Alejo Viola — Senior Frontend Engineer · Design Engineer. Animated portfolio banner: an orbital ephemeris — a rim-lit planet and three orbits over a starfield." width="100%" />
   </a>
 </p>
